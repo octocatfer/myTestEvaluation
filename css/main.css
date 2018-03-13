@@ -1,0 +1,35 @@
+body {
+  font-size: 95%;
+  font-family: Segoe UI, Arial, sans-serif;
+  margin: 40px 0 0 40px;
+}
+h1 {
+  margin: 0 0 20px 0;
+  font-family: HP Simplified;
+  border-bottom: 1px solid #0087BD;
+  padding-bottom: 10px;
+}
+#container {
+  border: 1px solid #0087BD;
+  padding: 25px 40px;
+  display: inline-block;
+}
+.mbtn {
+  /*border-top: 1px solid #0087BD;*/
+  margin-top: 20px;
+  padding: 10px 0;
+  text-align: center;
+}
+#start, #next {
+  background-color: #0087BD;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+  border-radius: 1px;
+  box-shadow: 1px 2px 3px #ACE5EE;
+}
+.box {
+  width: 350px;
+}
